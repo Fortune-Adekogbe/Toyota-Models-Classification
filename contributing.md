@@ -45,4 +45,4 @@ Once your PR is made:
 Congratulations :tada::tada:, we appreciate you.
 
 ## Reference
-- (Github contributing guide)[https://github.com/github/docs/edit/main/CONTRIBUTING.md]
+- [Github contributing guide](https://github.com/github/docs/edit/main/CONTRIBUTING.md)
